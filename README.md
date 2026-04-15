@@ -1,5 +1,5 @@
-### Hi I'm Vincent!
-I'm currently enrolled for a master degree at UniPi in Artificial Intelligence, my interests revolves around Machine Learning in particular on Recurrent Neural Network architectures and Reinforcement Learning.
+### Hi, I'm Vincent!
+Graduated @UniPi Master's Degree in Artificial Intelligence, my interests revolve around Machine Learning in particular on Reservoir Computing architectures.
 
 
 ![](https://komarev.com/ghpvc/?U-n-Own&color=green)
